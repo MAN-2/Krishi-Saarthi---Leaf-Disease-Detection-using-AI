@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detector
+# 🌿 Krishi Saarthi : AI Powered Plant Disease Detector
 
 This is a **Streamlit-based web app** that detects **plant leaf diseases** using a trained deep learning model. Simply upload a leaf image, and the app will predict the most likely disease — along with top 3 predictions and their confidence scores.
 
@@ -7,7 +7,7 @@ This is a **Streamlit-based web app** that detects **plant leaf diseases** using
 
 ## 🚀 Demo
 
-Try it live: [Streamlit Cloud Deployment](https://your-streamlit-app-link)
+Try it live: https://leaf-disease-detection-using-deep-learning-es9wtkdkip8v6auryld.streamlit.app/
 
 ---
 
@@ -20,6 +20,10 @@ Try it live: [Streamlit Cloud Deployment](https://your-streamlit-app-link)
 - 🔍 Powered by `TensorFlow`, `Streamlit`, and `Pillow`
 
 ---
+
+Screenshots 
+![WhatsApp Image 2025-08-06 at 12 01 31 PM](https://github.com/user-attachments/assets/1aa959f1-689b-4e99-86b2-0c6d3927a696)
+
 
 
 
