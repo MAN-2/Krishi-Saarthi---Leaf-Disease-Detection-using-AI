@@ -7,7 +7,7 @@ This is a **Streamlit-based web app** that detects **plant leaf diseases** using
 
 ## 🚀 Demo
 
-Try it live: https://leaf-disease-detection-using-deep-learning-es9wtkdkip8v6auryld.streamlit.app/
+Try it live: https://krishi-saarthi.streamlit.app/
 
 ---
 
